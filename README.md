@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ElythHQ/Elyth/main/elyth_logo.svg" alt="Elyth Logo" width="250"/>
+</p>
+
 # Elyth Documentation 📚
 
 This repository contains the official documentation for the [Elyth Discord Bot Library](https://github.com/ElythHQ/Elyth).
